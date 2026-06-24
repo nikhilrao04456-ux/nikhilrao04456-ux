@@ -104,8 +104,8 @@ from model training to production deployment
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN](https://www.linkedin.com/in/nikhil-yadav-37281132a?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nikhilrao044.56@gmail.com)
 
 <!--
 **nikhilrao04456-ux/nikhilrao04456-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
